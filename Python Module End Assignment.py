@@ -47,6 +47,12 @@ plt.ylabel('Number of Employees')
 plt.show()
 
 
+# In[ ]:
+
+
+#Data story: Plot analysis revealed that"new orlean pelican" team has the highest number of employees which is 19 followed by "Memphis Grizzilies" at 18. Further majority team has 15 employees.
+
+
 # In[22]:
 
 
@@ -62,6 +68,12 @@ plt.title('Distribution of Employees Based on Positions')
 plt.xlabel('Position')
 plt.ylabel('Number of Employees')
 plt.show()
+
+
+# In[ ]:
+
+
+#Data story:  The bar plot showed that more than 100 employees belonged to SG position followed by PF position.
 
 
 # In[34]:
@@ -96,6 +108,12 @@ plt.ylabel('Number of Employees')
 plt.show()
 
 
+# In[ ]:
+
+
+#Data story: It is identified that most of the employees age falls within the age of 25, with 42 individuals in this group followed by 41 individuals with the age of 24. The bar plot analysis showed majority of employees about 198 individuals are under the age of 20-25. Apart from this, there are fewer individuals between the age range of 36-40
+
+
 # In[9]:
 
 
@@ -113,6 +131,12 @@ plt.xlabel("Team")
 plt.title("scatter plot position vs team with salary")
 plt.xticks(rotation=90)
 plt.show()
+
+
+# In[ ]:
+
+
+#Data story: scatter plot analysis revealed that that Los angeles lakers standout as highest spending team when salary distribution was plotted across different positions within each team.
 
 
 # In[12]:
@@ -135,5 +159,5 @@ plt.show()
 # In[ ]:
 
 
-
+#Data story: The correlation between age and salary: 0.21400941226570974 which is a positive correlation but the correlation values shows a weak relationship between age and salary. This means that as age increases, there's a tendency for salaries to increase slightly.
 
